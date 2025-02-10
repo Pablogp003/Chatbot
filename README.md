@@ -24,6 +24,9 @@ cd Chatbot
 
 # Instala las dependencias necesarias
 pip install streamlit transformers pymupdf
+
+# Ejecuta la aplicación
+streamlit run ChatbotAsistente.py
 ```
 # Ejecuta la aplicación
 streamlit run ChatbotAsistente.py
